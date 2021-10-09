@@ -1,5 +1,3 @@
-<a href="https://l.messenger.com/l.php?u=https%3A%2F%2Fsimplyexpensive.netlify.app%2F&h=AT2fIszcC-N2zDIPggqoUHpOmrNR_y0YI-ZZoxH8_xZKt1HUJ115hI5MpNyDKDBddSCXa-5jIbp1W8qHXDU2ZPMw3qKp93eTxYf82lQjesyeixHHr8_ITW0EwNbsRwl_va9wvA">Live Site</a>
-
 ## Create-React-App-Lambda
 
 This project is a reference demo showing you how to use [Create React App v3](https://github.com/facebookincubator/create-react-app) and [netlify-lambda v1](https://github.com/netlify/netlify-lambda) together in a [Netlify Dev](https://www.netlify.com/docs/cli/?utm_source=github&utm_medium=swyx-CRAL&utm_campaign=devex#netlify-dev-beta) workflow. You can clone this and immediately be productive with a React app with serverless Netlify Functions in the same repo. Alternatively you can deploy straight to Netlify with this one-click Deploy:
